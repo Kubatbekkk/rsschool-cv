@@ -1,3 +1,0 @@
-# rsschool-cv
-
-my cv
