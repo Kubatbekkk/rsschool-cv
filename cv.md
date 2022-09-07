@@ -1,4 +1,4 @@
-### Kubatbek Mirzabek uulu
+### Kubatbek Mirzabek uulu <img src="./profile-photo-no-bg.png" style="zoom: 33%;" />
 
 ---
 
