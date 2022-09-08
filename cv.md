@@ -1,4 +1,4 @@
-### Kubatbek Mirzabek uulu <img src="./profile-photo-no-bg.png" style="zoom: 33%;" />
+### Kubatbek Mirzabek uulu_____________________________________________ <img src="./profile-photo-no-bg.png" style="zoom: 25%;" />
 
 ---
 
@@ -16,7 +16,8 @@ GitHub : https://github.com/Kubatbekkk
 
 ##### Personal Profile
 
-A motivated, adaptable and responsible IT Bootcamp graduate looking forward studying in The RS School to consolidate the skills.
+A motivated, adaptable and responsible IT Bootcamp graduate looking forward studying in 
+The RS School to consolidate the skills.
 
 ##### Skills
 
@@ -54,7 +55,8 @@ Simple HTML, Sass and CSS Grid Website
 
 [Comfy Store](https://thecomfystore.netlify.app/) - e-commerce app front end
 
-E-commerce Store built using React, Redux Toolkit, Styled Components with Auth0 authorization and Stripe payment processing
+E-commerce Store built using React, Redux Toolkit, Styled Components with 
+Auth0 authorization and Stripe payment processing
 
 ##### Education
 
